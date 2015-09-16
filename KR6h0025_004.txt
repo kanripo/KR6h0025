@@ -1,26 +1,21 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:06:54.338210
+#+DATE: 2015-08-30 20:06:56.575355
 #+TITLE: 大方等大集經賢護分
 #+PROPERTY: CBETA_ID T13n0416
 #+PROPERTY: ID KR6h0025
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 13, No. 416
 #+PROPERTY: VOL 13
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@SHENG
 #+PROPERTY: LASTPB <pb:KR6h0025_T_004-0886a> ¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 4
 ¶
 ¶
-
- 《大乘大集經賢護分》卷第四¶
+《大乘大集經賢護分》卷第四¶
 ¶
 隋天竺三藏闍那崛多譯¶
 
-8稱讚功德品
-:PROPERTIES:
-:head: 稱讚功德品第八
-:END:
-¶
+稱讚功德品第八¶
 
 爾時，賢護菩薩及寶得離車子、善商主長¶
 者伽訶岌多居士子那羅達多摩納、水天長¶
@@ -222,11 +217,7 @@
 #+END_VERSE
 」¶
 
-9饒益品
-:PROPERTIES:
-:head: 《大集經賢護分》饒益品第九
-:END:
-¶
+《大集經賢護分》饒益品第九¶
 
 爾時，世尊復告賢護菩薩言：「賢護！我念往昔¶
 過於無量阿僧祇劫時，有一佛號無畏王如¶
@@ -409,11 +400,7 @@
 #+END_VERSE
 」¶
 
-10具五法品
-:PROPERTIES:
-:head: 《大集經賢護分》具五法品第十
-:END:
-¶
+《大集經賢護分》具五法品第十¶
 
 爾時，賢護菩薩從坐而起，整理衣服，偏袒右¶
 肩，右膝著地，恭敬合掌而白佛言：「世尊！唯願¶
@@ -637,11 +624,7 @@
 #+END_VERSE
 」¶
 
-11授記品
-:PROPERTIES:
-:head: 《大集經賢護分》授記品第十一
-:END:
-¶
+《大集經賢護分》授記品第十一¶
 
 爾時，世尊告賢護菩薩言：「賢護！我念往昔過¶
 於無量阿僧祇、復過無量阿僧祇劫，初於然¶
@@ -675,11 +658,7 @@
 #+END_VERSE
 」¶
 
-12甚深品
-:PROPERTIES:
-:head: 《大集經賢護分》甚深品第十二
-:END:
-¶
+《大集經賢護分》甚深品第十二¶
 
 爾時，賢護菩薩復白佛言：「世尊！云何思惟如¶
 是三昧？」
